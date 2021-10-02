@@ -1,0 +1,2 @@
+D:\Programing\VS\АСД 3\Debug\АСД 3.exe
+D:\Programing\VS\АСД 3\Debug\АСД 3.pdb

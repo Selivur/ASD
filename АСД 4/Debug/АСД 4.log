@@ -1,0 +1,3 @@
+﻿  АСД 4.cpp
+D:\Programing\VS\АСД 4\АСД 4.cpp(49,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  АСД 4.vcxproj -> D:\Programing\VS\АСД 4\Debug\АСД 4.exe
